@@ -1,0 +1,29 @@
+{
+  "name": "jsqrcode",
+  "version": "1.0.0",
+  "description": "A customizable QR code generator with logo support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Created by Tirthaboss'"
+  },
+  "keywords": [
+    "qrcode",
+    "generator",
+    "customizable",
+    "logo"
+  ],
+  "author": "Souporno Chakraborty",
+  "license": "MIT",
+  "dependencies": {
+    "qrcode": "^1.4.4",
+    "sharp": "^0.30.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tirthaboss/jsqrcode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tirthaboss/jsqrcode/issues"
+  },
+  "homepage": "https://github.com/Tirthaboss/jsqrcode#readme"
+}
